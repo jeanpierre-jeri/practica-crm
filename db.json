@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jean Pierre",
+      "empresa": "Jean Pierre Corporation",
+      "email": "correo@correo.com",
+      "telefono": "987654321",
+      "notas": "Esta es una prueba",
+      "id": 2
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "Hablando Huevadas",
+      "email": "jorge@tuterror.com",
+      "telefono": "987654321",
+      "notas": "Este es un mensaje de prueba",
+      "id": 3
+    }
+  ]
+}
